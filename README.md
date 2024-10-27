@@ -16,9 +16,9 @@ Node.js and npm installed on your machine
 MongoDB (local instance or MongoDB Atlas account)
 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/task-manager-app.git
+2. https://github.com/kajaldalai1/FullStack-Task-Manager-App.git
 cd task-manager-app
-2. Set Up the Backend
+3. Set Up the Backend
 Navigate to the backend directory:
 
 bash
